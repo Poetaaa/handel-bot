@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "ascii-art": "^1.5.0",
+    "discord-eco": "0.0.10",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "figlet": "^1.2.1",
+    "fortnite": "^4.1.1",
+    "fs": "0.0.1-security",
+    "long": "^4.0.0",
+    "mathjs": "^5.2.3",
+    "ms": "^2.1.1",
+    "ops": "0.0.1",
+    "opusscript": "0.0.6",
+    "profanities": "^2.8.0",
+    "quick.db": "^7.0.0-b16",
+    "quick.log": "^1.2.1",
+    "quick.log-discord": "^1.1.0",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4",
+    "string-similarity": "^3.0.0",
+    "superagent": "^4.1.0",
+    "table": "^5.2.3",
+    "ytdl-core": "^0.24.0"
+  }
+}
